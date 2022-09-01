@@ -1,0 +1,150 @@
+,Name,Type,Family,Direction,Baseline,Case,White Space,ISO 15924 Code,Status,Diacritics,Contextual Forms,Complex Positioning,Reordering,Split Graphs,Ligatures,OpenType Tag,Unicode Range
+0,Adlam,alphabet,African,RTL,bottom,yes,between words,Adlm / 166 (right-to-left alphabetic),Current,yes,yes,[unknown],no,no,none,adlm,1E900..1E95F
+1,Hebrew,abjad,Middle Eastern,RTL bidirectional,bottom,no,between words,Hebr / 125 (right-to-left alphabetic),Current,yes,yes,no,[unknown],[unknown],required,hebr,0000..007F
+2,Pahawh Hmong,syllabary,East Asian,LTR,bottom,no,[unspecified],Hmng / 450 (syllabic),Current,yes,yes,[unknown],yes,[unknown],[unspecified],hmng,16B00..16B8F
+3,Afaka,syllabary,American,LTR,bottom,no,discretionary,Afak / 439 (syllabic),Current,[unknown],[unknown],[unknown],[unknown],[unknown],[unspecified],[none],N/A
+4,Hiragana,syllabary,East Asian,vertical (RTL) and horizontal (LTR),centered,no,discretionary,Hira / 410 (syllabic),Current,yes,no,[unknown],no,[unknown],[unspecified],kana,N/A
+5,Pau Cin Hau,alphabet,Mainland Southeast Asian,LTR,[unspecified],[unknown],between words,Pauc / 263 (left-to-right alphabetic),Current,yes,[unknown],[unknown],[unknown],[unknown],[unspecified],pauc,11AC0..11AFF
+6,Ahom,abugida,Mainland Southeast Asian,LTR,bottom,no,none,Ahom / 338 (alphasyllabic),Current,yes,[unknown],[unknown],[unknown],[unknown],,ahom,11700..1173F
+7,Iban,syllabary,Insular Southeast Asian,LTR,bottom,no,between words,[none],Current,no,no,no,no,no,none,[none],N/A
+8,Pau Cin Hau Syllabary,logo-syllabary,Mainland Southeast Asian,[unspecified],bottom,[unknown],none,[none],Current,yes,[unknown],[unknown],[unknown],[unknown],[unspecified],[none],N/A
+9,Akkha,abugida,Indic,LTR,bottom,no,[unspecified],[none],Current,[unknown],[unknown],[unknown],[unknown],[unknown],[unspecified],[none],N/A
+10,Jamo (alias for Jamo subset of Hangul),featural,East Asian,[unspecified],[unspecified],no,between words,Jamo / 284 (left-to-right alphabetic),Current,no,no,no,no,[unknown],[unspecified],jamo, 1100..11FF 
+11,Ranjana,abugida,Indic,LTR,hanging,no,between words,Ranj / 303 (alphasyllabic),Current,yes,yes,[unknown],yes,yes,required,[none],N/A
+12,Arabic,abjad,Middle Eastern,RTL bidirectional,bottom,no,between words,Arab / 160 (right-to-left alphabetic),Current,yes,yes,yes,[unknown],no,required,arab, 0600..06FF 
+13,Japanese (alias for Han + Hiragana + Katakana),logo-syllabary,East Asian,LTR,centered,no,discretionary,Jpan / 413 (syllabic),Current,yes,no,no,[unknown],[unknown],none,[none], 2E80..2EFF 
+14,"Rejang (Redjang, Kaganga)",abugida,Insular Southeast Asian,LTR,bottom,no,[unspecified],Rjng / 363 (alphasyllabic),Current,yes,[unknown],[unknown],[unknown],[unknown],none,rjng,A930..A95F
+15,Arabic (Nastaliq variant),abjad,Middle Eastern,RTL bidirectional,bottom,no,between words,Aran / 161 (right-to-left alphabetic),Current,yes,yes,yes,no,no,required,[none], 0600..06FF 
+16,Japanese syllabaries (alias for Hiragana + Katakana),syllabary,East Asian,LTR,centered,no,between words,Hrkt / 412 (syllabic),Current,[unknown],[unknown],[unknown],no,[unknown],[unspecified],[none],N/A
+17,Salifou Hausa,alphabet,African,[unspecified],bottom,no,[unspecified],[none],Current,no,yes,[unknown],[unknown],[unknown],[unspecified],[none],N/A
+18,Armenian,alphabet,European,LTR,bottom,yes,between words,Armn / 230 (left-to-right alphabetic),Current,yes,no,no,[unknown],[unknown],optional,armn,0530..058F
+19,Javanese,abugida,Insular Southeast Asian,LTR,hanging,no,none,Java / 361 (alphasyllabic),Current,yes,yes,yes,[unknown],[unknown],none,java,A980..A9DF
+20,Samaritan,abjad,Middle Eastern,RTL,bottom,no,none,Samr / 123 (right-to-left alphabetic),Current,yes,yes,yes,[unknown],[unknown],none,samr,0000..007F
+21,Bagam (Eghap),logo-syllabary,African,LTR,bottom,no,[unspecified],[none],Current,yes,[unknown],[unknown],[unknown],[unknown],required,[none],N/A
+22,Kaithi,abugida,Indic,LTR,hanging,no,discretionary,Kthi / 317 (alphasyllabic),Current,yes,yes,yes,yes,[unknown],required,kthi,11080..110CF
+23,Saurashtra,abugida,Indic,LTR,hanging,no,[unspecified],Saur / 344 (alphasyllabic),Current,yes,[unknown],[unknown],[unknown],[unknown],optional,saur,A880..A8DF
+24,Balinese,abugida,Insular Southeast Asian,LTR,hanging,no,between words,Bali / 360 (alphasyllabic),Current,yes,yes,[unknown],yes,yes,,bali,1B00..1B7F
+25,Kannada,abugida,Indic,LTR,bottom,no,between words,Knda / 00 (hieroglyphic/cuneiform),Current,yes,yes,yes,[unknown],[unknown],required,"knda, knd2", 0C80..0CFF 
+26,"Sharada, Śāradā",abugida,Indic,LTR,hanging,no,discretionary,Shrd / 319 (alphasyllabic),Current,yes,[unknown],[unknown],yes,yes,required,shrd,11180..111DF
+27,Balti-A,abugida,Indic,RTL,bottom,[unknown],between words,[none],Current,yes,[unknown],[unknown],[unknown],[unknown],,[none],N/A
+28,Katakana,syllabary,East Asian,vertical (RTL) and horizontal (LTR),centered,no,none,Kana / 411 (syllabic),Current,yes,[unknown],[unknown],[unknown],[unknown],optional,kana,N/A
+29,Shuishu,logo-syllabary,East Asian,vertical (RTL) and horizontal (LTR),centered,no,none,Shui / 530 (ideographic),Current,no,[unknown],no,no,no,none,[none],N/A
+30,Bamum,syllabary,African,LTR,bottom,yes,between words,Bamu / 435 (syllabic),Current,yes,[unknown],[unknown],[unknown],[unknown],,bamu,A6AO..A6FF
+31,Kayah Li,alphabet,Mainland Southeast Asian,LTR,hanging,no,between words,Kali / 357 (alphasyllabic),Current,yes,[unknown],yes,[unknown],[unknown],[unspecified],kali,A900..A92F
+32,SignFont Notation,featural,Signed Language,LTR,bottom,no,between words,[none],Current,no,no,no,no,no,none,[none],N/A
+33,Bassa Vah,alphabet,African,LTR,bottom,yes,[unspecified],Bass / 259 (left-to-right alphabetic),Current,[unknown],[unknown],[unknown],[unknown],[unknown],[unspecified],bass,16AD0..16AFF
+34,Khmer,abugida,Mainland Southeast Asian,LTR,bottom,no,none,Khmr / 355 (alphasyllabic),Current,yes,yes,yes,yes,yes,required,khmr,0024
+35,SignWriting,featural,Signed Language,vertical (LTR) and horizontal (LTR),vertical,no,[unspecified],Sgnw / 095 (hieroglyphic/cuneiform),Current,yes,yes,yes,no,yes,required,sgnw,1D800..1DAAF
+36,Batak,abugida,Insular Southeast Asian,vertical (LTR) and horizontal (LTR),bottom,no,none,Batk / 365 (alphasyllabic),Current,yes,no,[unknown],[unknown],[unknown],none,batk,1BC0..1BFF
+37,Khojki,abugida,Indic,LTR,[unspecified],no,[unspecified],Khoj / 322 (alphasyllabic),Current,yes,yes,[unknown],no,[unknown],required,khoj,11200..1124F
+38,Sinhala,abugida,Indic,LTR,bottom,no,between words,Sinh / 348 (alphasyllabic),Current,yes,yes,[unknown],yes,yes,required,sinh,0D80..0DFF
+39,Bengali (Bangla),abugida,Indic,LTR,hanging,no,between words,Beng / 325 (alphasyllabic),Current,yes,yes,yes,yes,yes,required,"beng, bng2",0980..09FF
+40,Khutsuri (Asomtavruli and Nuskhuri),alphabet,European,LTR,bottom,yes,between words,Geok / 241 (left-to-right alphabetic),Current,[unknown],[unknown],[unknown],[unknown],[unknown],optional,[none],0024
+41,Sora Sompeng,syllabary,Indic,LTR,bottom,no,[unspecified],Sora / 398 (alphasyllabic),Current,no,[unknown],[unknown],[unknown],[unknown],none,sora,110D0..110FF
+42,Beria (Erfe),alphabet,African,LTR,hanging,yes,none,[none],Current,yes,[unknown],[unknown],[unknown],[unknown],[unspecified],[none],N/A
+43,Kirat Rai,abugida,Indic,LTR,bottom,no,between words,[none],Current,no,no,no,no,no,none,[none],N/A
+44,Soyombo,abugida,Indic,LTR,hanging,[unknown],[unspecified],Soyo / 329 (alphasyllabic),Current,yes,[unknown],yes,[unknown],[unknown],required,soyo, 11A50..11AAF 
+45,Bété,syllabary,African,LTR,[unspecified],no,[unspecified],[none],Current,[unknown],[unknown],[unknown],[unknown],[unknown],[unspecified],[none],N/A
+46,Korean (alias for Hangul + Han),logo-syllabary,East Asian,LTR,bottom,no,between words,Kore / 287 (left-to-right alphabetic),Current,no,no,no,no,[unknown],[unspecified],[none],0024
+47,Stokoe Notation,featural,Signed Language,LTR,bottom,no,[unspecified],[none],Current,yes,[unknown],[unknown],no,[unknown],none,[none],N/A
+48,Bopomofo,syllabary,East Asian,LTR,bottom,no,between words,Bopo / 285 (left-to-right alphabetic),Current,[unknown],[unknown],[unknown],[unknown],[unknown],[unspecified],bopo, 3100..312F 
+49,Kpelle,syllabary,African,LTR,bottom,no,[unspecified],Kpel / 436 (syllabic),Current,[unknown],[unknown],[unknown],[unknown],[unknown],[unspecified],[none],N/A
+50,Sundanese,abugida,Insular Southeast Asian,LTR,bottom,no,between words,Sund / 362 (alphasyllabic),Current,yes,[unknown],[unknown],yes,[unknown],optional,sund,1B80..1BBF
+51,Braille,alphabet,Artificial,LTR,bottom,no,discretionary,Brai / 570 (ideographic),Current,no,no,no,no,no,[unspecified],brai, 2800..28FF 
+52,Lahnda (Landa),abugida,Indic,LTR,hanging,no,[unspecified],[none],Current,[unknown],[unknown],[unknown],[unknown],[unknown],[unspecified],[none],N/A
+53,Sunuwar,alphabet,Indic,LTR,hanging,no,between words,Sunu / 274 (left-to-right alphabetic),Current,yes,yes,[unknown],[unknown],[unknown],required,[none],N/A
+54,Buginese,abugida,Insular Southeast Asian,LTR,bottom,no,between phrases,Bugi / 367 (alphasyllabic),Current,yes,[unknown],[unknown],[unknown],[unknown],[unspecified],bugi,1A00..1A1F
+55,Lao,abugida,Mainland Southeast Asian,LTR,bottom,no,between phrases,Laoo / 356 (alphasyllabic),Current,yes,yes,yes,yes,yes,required,lao,0024
+56,Syloti Nagri,abugida,Indic,LTR,hanging,no,between words,Sylo / 316 (alphasyllabic),Current,yes,[unknown],[unknown],[unknown],[unknown],required,sylo,A800..A82F
+57,Buhid,abugida,Insular Southeast Asian,LTR,bottom,no,[unspecified],Buhd / 372 (alphasyllabic),Current,yes,[unknown],[unknown],[unknown],[unknown],optional,buhd,1740..175F
+58,Latin,alphabet,European,LTR,bottom,yes,between words,Latn / 215 (left-to-right alphabetic),Current,yes,no,yes,no,no,optional,latn,0300..036F
+59,Symbols,,,[unspecified],[unspecified],[unknown],[unspecified],"Zsym / 996 (private use, alias, or special)",Current,[unknown],[unknown],[unknown],[unknown],[unknown],[unspecified],[none],"0024, 002B, 003C..003E, 005E, 0060, 007C, 007E"
+60,Chakma,abugida,Indic,LTR,bottom,no,[unspecified],Cakm / 349 (alphasyllabic),Current,yes,yes,yes,[unknown],[unknown],optional,cakm,11100..1114F
+61,Latin (Fraktur variant),alphabet,European,LTR,bottom,yes,between words,Latf / 217 (left-to-right alphabetic),Current,yes,no,no,no,no,required,[none],N/A
+62,Symbols (Emoji variant),,Artificial,[unspecified],[unspecified],[unknown],[unspecified],"Zsye / 993 (private use, alias, or special)",Current,[unknown],[unknown],[unknown],[unknown],[unknown],[unspecified],[none],2600..26FF
+63,Cham,abugida,Mainland Southeast Asian,LTR,hanging,no,[unspecified],Cham / 358 (alphasyllabic),Current,yes,yes,[unknown],[unknown],[unknown],required,cham,AA00..AA5F
+64,Leke,,Mainland Southeast Asian,LTR,bottom,[unknown],[unspecified],Leke / 364 (alphasyllabic),Current,yes,[unknown],[unknown],[unknown],[unknown],[unspecified],[none],N/A
+65,Syriac,abjad,Middle Eastern,RTL,bottom,no,between words,Syrc / 135 (right-to-left alphabetic),Current,yes,yes,yes,[unknown],[unknown],optional,syrc, 0700..074F 
+66,Cherokee,syllabary,American,LTR,bottom,yes,between words,Cher / 445 (syllabic),Current,no,[unknown],[unknown],[unknown],[unknown],none,cher,13A0..13FF
+67,Lepcha (Róng),abugida,Central Asian,LTR,bottom,no,[unspecified],Lepc / 335 (alphasyllabic),Current,yes,yes,yes,yes,no,required,lepc,1C00..1C4F
+68,Syriac (Eastern variant),abjad,Middle Eastern,RTL,bottom,no,between words,Syrn / 136 (right-to-left alphabetic),Current,yes,yes,[unknown],[unknown],[unknown],[unspecified],[none], 0700..074F 
+69,Coorgi-Cox,alphabet,Indic,LTR,[unspecified],no,[unspecified],[none],Current,[unknown],[unknown],[unknown],[unknown],[unknown],[unspecified],[none],N/A
+70,Limbu,abugida,Indic,LTR,hanging,no,between words,Limb / 336 (alphasyllabic),Current,yes,yes,[unknown],[unknown],yes,required,limb,1900..194F
+71,Syriac (Western variant),abjad,Middle Eastern,RTL,bottom,no,between words,Syrj / 137 (right-to-left alphabetic),Current,yes,yes,[unknown],[unknown],[unknown],[unspecified],[none], 0700..074F 
+72,Coptic,alphabet,European,LTR,bottom,yes,none,Copt / 204 (left-to-right alphabetic),Current,yes,no,[unknown],no,[unknown],,copt,0300..036F
+73,Lisu (Fraser),alphabet,East Asian,LTR,bottom,no,[unspecified],Lisu / 399 (alphasyllabic),Current,yes,[unknown],[unknown],[unknown],no,none,lisu,A4D0..A4FF
+74,Tafi (Hausa),alphabet,African,LTR,bottom,no,between words,[none],Current,no,[unknown],[unknown],[unknown],[unknown],[unspecified],[none],N/A
+75,Cyrillic,alphabet,European,LTR,bottom,yes,between words,Cyrl / 220 (left-to-right alphabetic),Current,no,[unknown],no,no,no,none,cyrl,0300..036F
+76,Loma,syllabary,African,LTR,bottom,no,[unspecified],Loma / 437 (syllabic),Current,[unknown],[unknown],[unknown],[unknown],[unknown],[unspecified],[none],N/A
+77,Tagbanwa,abugida,Insular Southeast Asian,LTR,bottom,no,[unspecified],Tagb / 373 (alphasyllabic),Current,yes,[unknown],[unknown],[unknown],[unknown],[unspecified],tagb,1760..177F
+78,Devanagari (Nagari),abugida,Indic,LTR,hanging,no,between words,Deva / 315 (alphasyllabic),Current,yes,yes,yes,yes,no,required,"deva, dev2",0024
+79,Malayalam,abugida,Indic,LTR,bottom,no,discretionary,Mlym / 347 (alphasyllabic),Current,yes,yes,yes,yes,yes,required,"mlym, mlm2", 0D00..0D7F 
+80,Tai Le,abugida,Mainland Southeast Asian,LTR,bottom,no,between phrases,Tale / 353 (alphasyllabic),Current,yes,[unknown],[unknown],no,no,[unspecified],tale,1950..197F
+81,Duota,abugida,Mainland Southeast Asian,LTR,bottom,[unknown],[unspecified],[none],Current,[unknown],[unknown],[unknown],[unknown],[unknown],[unspecified],[none],N/A
+82,Masaba,syllabary,African,LTR,[unspecified],[unknown],[unspecified],[none],Current,no,[unknown],[unknown],[unknown],[unknown],none,[none],N/A
+83,Tai Tham (Lanna),abugida,Mainland Southeast Asian,LTR,hanging,no,between phrases,Lana / 351 (alphasyllabic),Current,yes,yes,yes,[unknown],yes,required,lana,1A20..1AAF
+84,"Duployan shorthand, Duployan stenography",alphabet,American,LTR,bottom,no,between words,Dupl / 755,Current,yes,yes,[unknown],no,[unknown],[unspecified],dupl,1BC00..1BC9F
+85,Masaram Gondi,abugida,Indic,LTR,[unspecified],[unknown],[unspecified],Gonm / 313 (alphasyllabic),Current,yes,yes,yes,[unknown],[unknown],required,gonm, 11D00..11D5F 
+86,Tai Viet,abugida,Mainland Southeast Asian,LTR,bottom,no,discretionary,Tavt / 359 (alphasyllabic),Current,yes,yes,yes,yes,yes,required,tavt,AA80..AADF
+87,Eebee Hmong,alphabet,Mainland Southeast Asian,LTR,bottom,[unknown],between words,[none],Current,no,no,no,no,no,none,[none],N/A
+88,Mathematical notation,,Artificial,LTR,bottom,no,[unspecified],"Zmth / 995 (private use, alias, or special)",Current,[unknown],[unknown],[unknown],[unknown],[unknown],[unspecified],[none],0000..007F
+89,Tamil,abugida,Indic,LTR,bottom,no,between words,Taml / 346 (alphasyllabic),Current,yes,yes,yes,yes,yes,required,"taml, tml2",0024
+90,Eshkol-Wachman movement notation system,featural,Signed Language,vertical (LTR) and horizontal (LTR),centered,no,[unspecified],[none],Current,no,no,no,no,no,none,[none],N/A
+91,"Medefaidrin (Oberi Okaime, Oberi Ɔkaimɛ)",alphabet,African,LTR,bottom,yes,between words,Medf / 265 (left-to-right alphabetic),Current,[unknown],yes,no,no,no,optional,medf,16E40..16E9F
+92,Tani,alphabet,Indic,LTR,[unspecified],[unknown],[unspecified],[none],Current,yes,[unknown],[unknown],[unknown],[unknown],required,[none],N/A
+93,Eskaya,syllabary,Insular Southeast Asian,LTR,[unspecified],[unknown],between words,[none],Current,[unknown],[unknown],[unknown],[unknown],[unknown],[unspecified],[none],N/A
+94,"Meitei Mayek (Meithei, Meetei)",abugida,Indic,LTR,hanging,no,between words,Mtei / 337 (alphasyllabic),Current,yes,yes,[unknown],yes,[unknown],[unspecified],mtei,ABC0..ABFF
+95,Telugu,abugida,Indic,LTR,bottom,no,between words,Telu / 340 (alphasyllabic),Current,yes,yes,yes,no,no,required,"telu, tel2",0C00..0C7F
+96,Ethiopic (Geʻez),abugida,African,LTR,bottom,no,between words,Ethi / 430 (syllabic),Current,yes,yes,no,[unknown],[unknown],none,ethi,1200..137F
+97,Mende Kikakui,abugida,African,RTL,bottom,no,[unspecified],Mend / 438 (syllabic),Current,yes,[unknown],[unknown],[unknown],[unknown],required,mend,1E800..1E8DF
+98,Thaana,alphabet,Indic,RTL bidirectional,bottom,no,discretionary,Thaa / 170 (right-to-left alphabetic),Current,yes,[unknown],[unknown],no,[unknown],[unspecified],thaa, 0780..07BF 
+99,Fula-1 (Dita),alphabet,African,[unspecified],[unspecified],no,[unspecified],[none],Current,no,yes,[unknown],no,[unknown],none,[none],N/A
+100,Miao (Pollard),abugida,East Asian,LTR,bottom,no,between words,Plrd / 282 (left-to-right alphabetic),Current,yes,[unknown],yes,[unknown],[unknown],none,plrd,16F00..16F9F
+101,Thai,abugida,Mainland Southeast Asian,LTR,bottom,no,discretionary,Thai / 352 (alphasyllabic),Current,yes,no,yes,yes,yes,none,thai,0024
+102,Fula-2 (Ba),alphabet,African,LTR,bottom,no,[unspecified],[none],Current,no,[unknown],no,[unknown],no,[unspecified],[none],N/A
+103,"Modi, Moḍī",abugida,Indic,LTR,hanging,no,between words,Modi / 324 (alphasyllabic),Current,yes,[unknown],[unknown],[unknown],[unknown],required,modi,11600..1165F
+104,Tibetan,abugida,Central Asian,LTR,hanging,no,none,Tibt / 330 (alphasyllabic),Current,yes,yes,yes,[unknown],[unknown],required,tibt,0F00..0FFF
+105,Garay (Wolof),alphabet,African,RTL,bottom,no,between words,[none],Current,[unknown],yes,[unknown],[unknown],[unknown],[unspecified],[none],N/A
+106,Mongolian,alphabet,Central Asian,vertical (LTR),vertical,no,between words,Mong / 145 (right-to-left alphabetic),Current,yes,yes,[unknown],[unknown],[unknown],[unspecified],mong,1800..18AF
+107,Tifinagh (Berber),abjad,African,[unspecified],bottom,no,between words,Tfng / 120 (right-to-left alphabetic),Current,yes,yes,no,no,no,optional,tfng,0300..036F
+108,Georgian (Mkhedruli and Mtavruli),alphabet,European,LTR,bottom,no,between words,Geor / 240 (left-to-right alphabetic),Current,no,no,[unknown],[unknown],[unknown],optional,geor,0024
+109,"Moon (Moon code, Moon script, Moon type)",alphabet,Artificial,LTR,bottom,no,[unspecified],Moon / 218 (left-to-right alphabetic),Current,[unknown],[unknown],[unknown],[unknown],[unknown],[unspecified],[none],N/A
+110,Tigalari,abugida,Indic,LTR,hanging,no,[unspecified],[none],Current,yes,[unknown],[unknown],yes,yes,none,[none],N/A
+111,Grantha,abugida,Indic,LTR,hanging,no,between words,Gran / 343 (alphasyllabic),Current,yes,yes,[unknown],[unknown],[unknown],required,gran,11300..1137F
+112,"Mro, Mru",alphabet,Indic,LTR,bottom,no,between words,Mroo / 264 (left-to-right alphabetic),Current,no,no,[unknown],[unknown],[unknown],none,mroo,16A40..16A6F
+113,Tikamuli,abugida,Indic,LTR,bottom,no,[unspecified],[none],Current,yes,[unknown],yes,no,[unknown],none,[none],N/A
+114,Greek,alphabet,European,LTR,bottom,yes,between words,Grek / 200 (left-to-right alphabetic),Current,yes,yes,no,[unknown],[unknown],optional,grek,0300..036F
+115,Mwangwego,abugida,African,LTR,bottom,no,between words,[none],Current,yes,no,no,no,no,[unspecified],[none],N/A
+116,Tirhuta,abugida,Indic,LTR,hanging,no,between words,Tirh / 326 (alphasyllabic),Current,[unknown],[unknown],[unknown],[unknown],[unknown],[unspecified],tirh,11480..114DF
+117,Gujarati,abugida,Indic,LTR,hanging,no,between words,Gujr / 320 (alphasyllabic),Current,yes,yes,[unknown],yes,yes,required,"gujr, gjr2",0024
+118,Myanmar (Burmese),abugida,Mainland Southeast Asian,LTR,bottom,no,between phrases,Mymr / 350 (alphasyllabic),Current,yes,yes,yes,yes,yes,required,"mymr, mym2",0024
+119,Toto,alphabet,Indic,LTR,bottom,no,between words,Toto / 294 (left-to-right alphabetic),Current,yes,no,yes,yes,no,none,toto,1E290..1E2BF
+120,Gunjala Gondi,abugida,Indic,LTR,hanging,no,between words,Gong / 328 (alphasyllabic),Current,yes,no,yes,no,no,required,gong,11D60..11DAF
+121,Nag Mundari,alphabet,Indic,LTR,bottom,no,between words,Nagm / 295 (left-to-right alphabetic),Current,yes,[unknown],[unknown],no,no,none,[none],N/A
+122,Unified Canadian Aboriginal Syllabics,abugida,American,LTR,bottom,no,between words,Cans / 440 (syllabic),Current,yes,no,no,[unknown],no,none,cans,1400..167F
+123,Gurmukhi,abugida,Indic,LTR,hanging,no,between words,Guru / 310 (alphasyllabic),Current,yes,yes,yes,yes,no,required,"guru, gur2", 0A00..0A7F 
+124,Naxi Dongba,,East Asian,[unspecified],[unspecified],[unknown],[unspecified],Nkdb / 085 (hieroglyphic/cuneiform),Current,[unknown],[unknown],[unknown],[unknown],[unknown],[unspecified],[none],N/A
+125,Unwritten,,[unspecified],[unspecified],[unspecified],[unknown],[unspecified],[none],Current,[unknown],[unknown],[unknown],[unknown],[unknown],[unspecified],[none],N/A
+126,HamNoSys Notation,featural,Signed Language,LTR,bottom,no,[unspecified],[none],Current,[unknown],[unknown],[unknown],[unknown],[unknown],[unspecified],[none],N/A
+127,New Tai Lue,alphabet,Mainland Southeast Asian,LTR,hanging,no,[unspecified],Talu / 354 (alphasyllabic),Current,yes,[unknown],[unknown],yes,yes,optional,talu,1980..19DF
+128,Vai,syllabary,African,LTR,bottom,no,none,Vaii / 470 (syllabic),Current,yes,yes,no,no,no,optional,vai,A500..A63F
+129,"Han (Hanzi, Kanji, Hanja)",logo-syllabary,East Asian,vertical (RTL) and horizontal (LTR),centered,no,none,Hani / 500 (ideographic),Current,yes,[unknown],[unknown],[unknown],[unknown],,hani,0024
+130,"Newa, Newar, Newari, Nepāla lipi",abugida,Indic,LTR,hanging,no,between words,Newa / 333 (alphasyllabic),Current,yes,yes,[unknown],yes,[unknown],required,newa,N/A
+131,Wancho,alphabet,Indic,LTR,bottom,no,between words,Wcho / 283 (left-to-right alphabetic),Current,yes,no,no,no,no,none,wcho,1E2C0..1E2FF
+132,Han (Simplified variant),logo-syllabary,East Asian,vertical (RTL) and horizontal (LTR),centered,no,none,Hans / 501 (ideographic),Current,[unknown],[unknown],no,no,[unknown],none,[none],0024
+133,Nüshu,logo-syllabary,East Asian,vertical (LTR),vertical,no,[unspecified],Nshu / 499 (syllabic),Current,[unknown],no,[unknown],no,no,none,nshu, 16FE1 
+134,Warang Citi (Varang Kshiti),abugida,Indic,LTR,bottom,no,[unspecified],Wara / 262 (left-to-right alphabetic),Current,no,[unknown],[unknown],no,no,none,wara,118A0..118FF
+135,Han (Traditional variant),logo-syllabary,East Asian,vertical (RTL) and horizontal (LTR),centered,no,none,Hant / 502 (ideographic),Current,no,[unknown],no,no,[unknown],none,[none],0024
+136,Nyiakeng Puachue Hmong,alphabet,[unspecified],LTR,bottom,no,[unspecified],Hmnp / 451 (syllabic),Current,yes,[unknown],[unknown],[unknown],[unknown],[unspecified],hmnp,1E100..1E14F
+137,Yezidi,abjad,Middle Eastern,RTL,[unspecified],[unknown],[unspecified],Yezi / 192 (right-to-left alphabetic),Current,[unknown],[unknown],[unknown],[unknown],[unknown],[unspecified],yezi,10E80..10EBF
+138,Han with Bopomofo (alias for Han + Bopomofo),logo-syllabary,East Asian,[unspecified],[unspecified],no,none,Hanb / 503 (ideographic),Current,no,[unknown],[unknown],no,no,none,[none], 3100..312F 
+139,N’Ko,alphabet,African,RTL,bottom,no,between words,Nkoo / 165 (right-to-left alphabetic),Current,yes,[unknown],[unknown],[unknown],[unknown],[unspecified],nko,07C0..07FF
+140,Yi,logo-syllabary,East Asian,vertical (RTL) and horizontal (LTR),bottom,no,none,Yiii / 460 (syllabic),Current,yes,yes,no,no,no,none,yi,A000..A48F
+141,"Hangul (Hangŭl, Hangeul)",featural,East Asian,vertical (RTL) and horizontal (LTR),centered,no,between words,Hang / 286 (left-to-right alphabetic),Current,no,no,no,no,[unknown],[unspecified],hang,0024
+142,"Ol Chiki (Ol Cemet’, Ol, Santali)",alphabet,Indic,LTR,bottom,no,[unspecified],Olck / 261 (left-to-right alphabetic),Current,yes,no,[unknown],[unknown],[unknown],[unspecified],olck,1C50..1C7F
+143,Zhuang Square,logo-syllabary,East Asian,vertical (LTR) and horizontal (RTL),vertical,no,discretionary,[none],Current,[unknown],[unknown],[unknown],[unknown],[unknown],[unspecified],[none],N/A
+144,Hanifi Rohingya,,Mainland Southeast Asian,RTL,bottom,no,[unspecified],Rohg / 167 (right-to-left alphabetic),Current,yes,[unknown],yes,[unknown],[unknown],[unspecified],rohg,10D00..10D3F
+145,Oriya (Odia),abugida,Indic,LTR,hanging,no,between words,Orya / 327 (alphasyllabic),Current,yes,[unknown],[unknown],[unknown],yes,required,"orya, ory2", 0B00..0B7F 
+146,Zou,,Mainland Southeast Asian,LTR,hanging,yes,discretionary,[none],Current,yes,[unknown],[unknown],[unknown],[unknown],required,[none],N/A
+147,Hanunoo (Hanunóo),abugida,Insular Southeast Asian,vertical (LTR),vertical,no,none,Hano / 371 (alphasyllabic),Current,yes,yes,yes,[unknown],[unknown],required,hano,1720..173F
+148,Osage,alphabet,American,LTR,bottom,yes,between words,Osge / 219 (left-to-right alphabetic),Current,yes,no,yes,no,no,[unspecified],osge,104B0..104FF
